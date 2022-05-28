@@ -44,7 +44,7 @@ isFraud = 1 implies Fraud transaction/payment and isFraud = 0 implies legitimate
 11. *isFlaggedFraud:* the flagged fraud online payments
 
 
-##Method/Strategy
+## Method/Strategy:
 
 1. Importing and Cleaning the data
 2. Performing exploratory data analysis on categorical and Continuous variables including target variables. Studying their distribution for both the class of target variable to understand the type of online payments where fraudulent mostly seen and its nature.
