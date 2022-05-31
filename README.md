@@ -1,4 +1,4 @@
-# online_payments_fraud_detection
+# Predict fraud online payments
 
 ## Introduction:
 Every year there are millions of online payment fraud victims, and the costs for the companies can be huge. Being able to develop a fast and reliable fraud detection system can change drastically the financial performance of the business, and such a system heavily relies on historical data to understand how fraud works and be able to prevent it.
